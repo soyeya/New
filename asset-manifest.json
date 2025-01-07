@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/New/static/css/main.0872a0a9.css",
+    "main.js": "/New/static/js/main.bb205de2.js",
+    "static/media/paddingVideo.mp4": "/New/static/media/paddingVideo.75e9ee1ee1f72e800dd5.mp4",
+    "static/media/jacketOutfit.mp4": "/New/static/media/jacketOutfit.d251fa330ddf8be3a8cb.mp4",
+    "static/media/tshirtOutfit.mp4": "/New/static/media/tshirtOutfit.1c8e1f15e4979d92f80b.mp4",
+    "static/media/cardiganOutfit.mp4": "/New/static/media/cardiganOutfit.2e3617f52608cc9df56a.mp4",
+    "static/media/coatOutfit.mp4": "/New/static/media/coatOutfit.b22066c976aeea256dd9.mp4",
+    "static/media/knitOutfit.mp4": "/New/static/media/knitOutfit.a93061bfdf09fba52b80.mp4",
+    "static/media/mtmOutfit.mp4": "/New/static/media/mtmOutfit.a62d6414c4e228b33e7f.mp4",
+    "static/media/project07.png": "/New/static/media/project07.11d9200cfeb921769f1c.png",
+    "static/media/work07.png": "/New/static/media/work07.58a34d129cf8a43fb745.png",
+    "static/media/project06.png": "/New/static/media/project06.374a9f0868825304d2c8.png",
+    "static/media/work03.png": "/New/static/media/work03.bc4296158469685086eb.png",
+    "static/media/work01.png": "/New/static/media/work01.828205ae93a41e07e626.png",
+    "static/media/project04.png": "/New/static/media/project04.fd866ff61fd7fd306da6.png",
+    "static/media/project05.png": "/New/static/media/project05.db582dd5233192df4d8d.png",
+    "static/media/work02.png": "/New/static/media/work02.f4a575fdf86b790960f1.png",
+    "static/media/project03.png": "/New/static/media/project03.253f7e93f1a4ccfc640b.png",
+    "static/media/work08.png": "/New/static/media/work08.32abc64fbfa158739fbd.png",
+    "static/media/Pretendard-ExtraBold.woff": "/New/static/media/Pretendard-ExtraBold.82ea4400a5eea299b40c.woff",
+    "static/media/Pretendard-Bold.woff": "/New/static/media/Pretendard-Bold.f6866c5eb21ccb9a8749.woff",
+    "static/media/Pretendard-SemiBold.woff": "/New/static/media/Pretendard-SemiBold.a0c72d6162af72df37ec.woff",
+    "static/media/Pretendard-Medium.woff": "/New/static/media/Pretendard-Medium.f902522b86842449110e.woff",
+    "static/media/Pretendard-Regular.woff": "/New/static/media/Pretendard-Regular.ab56c53f21ca6b32d15f.woff",
+    "static/media/Pretendard-Light.woff": "/New/static/media/Pretendard-Light.40808ea4485a78c05f92.woff",
+    "static/media/Pretendard-ExtraLight.woff": "/New/static/media/Pretendard-ExtraLight.ff5e73a97b5e7a5c5d5f.woff",
+    "static/media/Pretendard-Thin.woff": "/New/static/media/Pretendard-Thin.348f24715998d74e9f55.woff",
+    "static/media/work05.png": "/New/static/media/work05.8f86f0025bc908286964.png",
+    "static/media/work04.png": "/New/static/media/work04.7d678d24d247c92e7ba6.png",
+    "static/media/work06.png": "/New/static/media/work06.654b01b79b1e9bf6b1d3.png",
+    "static/media/project01.png": "/New/static/media/project01.219aca0f8832c6699361.png",
+    "static/media/project02.png": "/New/static/media/project02.79eafb1aa0dfa11f3279.png",
+    "index.html": "/New/index.html",
+    "main.0872a0a9.css.map": "/New/static/css/main.0872a0a9.css.map",
+    "main.bb205de2.js.map": "/New/static/js/main.bb205de2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0872a0a9.css",
+    "static/js/main.bb205de2.js"
+  ]
+}
