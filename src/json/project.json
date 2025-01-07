@@ -1,0 +1,13 @@
+{
+    "project" : [
+        {"title" : "유스에게(Youth)", "info" : "청년층을 위한 정부의 정책 및 금융정보 서비스", "person" : "1명", "skills" : "React.js / Webpack / Babel / Mysql / Node.js" , "link" : "https://soyeya.github.io/youth_react/", "data" : "- 각 은행사별 금융정보 및 실시간 정부 청년 정책 API 데이터 연결", "data02" : "- 회원가입 및 목록 찜 등  mysql을 연동한 데이터 저장 구현", "data03" : "- 로딩에 따른 로딩페이지 구현"},
+        {"title" : "Ezpz(실생활정보)", "info" : "실생활에 유용한 서울 정보 서비스", "person" : "1명", "skills" : "React.js / Webpack / Babel / Node.js" , "link" : "https://soyeya.github.io/ezpz_app/", "data" : "- 날씨, 실시간 지하철 정보, 동네 음식점, 분리수거 등 실생활 정보 API 데이터 연결"},
+        {"title" : "바나프레소(Banapresso)", "info" : "인기있는 가성비 커피 브랜드 서비스 구현", "person" : "1명", "skills" : "React.js / Webpack / Babel" , "link" : "https://soyeya.github.io/banapresso/", "data" : "- 메뉴 선택 및 장바구니에 담기, 주문서 등 폼 영역 및 데이터 전달 가능 기능 구현"},
+        {"title" : "러쉬(lush)", "info" : "동물실험을 지양하고 친환경 제품을 제공하는 유명 바디브랜드 사이트 구현", "person" : "1명", "skills" : "React.js" , "link" : "https://soyeya.github.io/React_lush_/"},
+        {"title" : "타다(Tada)", "info" : "새로운 이동 기준을 제시하는 모빌리티 플랫폼 구현", "person" : "1명", "skills" : "React.js" , "link" : "https://soyeya.github.io/React_tada/"},
+        {"title" : "부산국제영화제(BIFF)", "info" : "부산국제영화제 사이트 구현", "person" : "1명", "skills" : "Vue.js" , "link" : "https://soyeya.github.io/youth_react/"},
+        {"title" : "스쿨푸드(SchoolFood)", "info" : "유명 음식점 브랜드 스쿨푸드 사이트 구현", "person" : "1명", "skills" : "Vue.js" , "link" : "https://soyeya.github.io/vueSchoolfood/"}
+    ]
+
+
+}

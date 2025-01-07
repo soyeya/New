@@ -1,0 +1,12 @@
+{
+    "work" : [
+        {"title" : "LG CNS", "link" : "https://soyess.github.io/lgCns01/", "skills" : "React.js , Webpack, Babel, Gsap"},
+        {"title" : "대한송유관공사", "link" : "/", "skills" : "Html5, Css3, Javascript , ES6 모듈화"},
+        {"title" : "ICUBE", "link" : "https://soyeya.github.io/icube/", "skills" : "Html5, Css3, Javascript, ES6 모듈화"},
+        {"title" : "비엠텍", "link" : "https://soyeya.github.io/iss/", "skills" : "Html5, Sass, Javascript, ES6 모듈화, SVG Sprite"},
+        {"title" : "앤톡", "link" : "/", "skills" : "Html5, Sass, Javascript , Chart.js , ES6 모듈화"},
+        {"title" : "오왈라", "link" : "/", "skills" : "Html5, Css3, Javascript, jquery"},
+        {"title" : "옵티머스솔루션스", "link" : "/", "skills" : "Html5, Css3, Javascript, jquery"},
+        {"title" : "블랜더보틀", "link" : "/", "skills" : "Html5, Css3, Javascript, jquery"}
+    ]
+}

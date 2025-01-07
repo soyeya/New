@@ -1,0 +1,157 @@
+@keyframes transformEvet1{
+  50%{  transform: translateY(-10px);}
+}
+@keyframes transformEvet2{
+  50%{  transform: translateX(10px);}
+}
+@keyframes transformEvet3{
+  50%{  transform: translateX(-10px);}
+}
+@keyframes transformEvet4{
+  50%{  transform: translateY(10px);}
+}
+
+#work{
+
+    padding:100px;
+    width: calc(100vw - 200px);
+    margin:0 auto;
+    background-color: transparent;
+
+    .titles{
+
+        font-size: 12vw;
+        text-align: right;
+        opacity: 10%;
+        font-family: "Do Hyeon", sans-serif;
+        font-weight: 800;
+        font-style: normal;
+        text-transform: uppercase;
+        color:#0d8f9d;
+
+        &:hover{
+          opacity: 50%;
+          transition: opacity 800ms;
+      }
+    }
+
+
+    .data-content{
+
+        width: 100%;
+        padding:30px 0px;
+        margin:0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap:5px;
+        flex-wrap:wrap;
+        margin-top:-6%;
+
+        &:hover{
+          ul{
+
+            &.active1{
+              animation: transformEvet1 1s forwards;
+              transition: transform 1s;
+            }
+            &.active2{
+              animation: transformEvet2 1s forwards;
+              transition: transform 1s;
+            }
+            &.active3{
+              animation: transformEvet1 1s forwards;
+              transition: transform 1s;
+            }
+            &.active4{
+              animation: transformEvet3 1s forwards;
+              transition: transform 1s;
+            }
+            &.active5{
+              animation: transformEvet4 1s forwards;
+              transition: transform 1s;
+            }
+            &.active6{
+              animation: transformEvet3 1s forwards;
+              transition: transform 1s;
+            }
+            &.active7{
+              animation: transformEvet3 1s forwards;
+              transition: transform 1s;
+            }
+            &.active8{
+              animation: transformEvet4 1s forwards;
+              transition: transform 1s;
+            }
+          }
+        }
+
+        ul{
+
+            width:calc(100% / 4 - 10px);
+            height:calc(300px - 10px);
+            margin:0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-position: center center;
+            background-size: cover;
+            background-repeat: no-repeat;
+
+            a{
+              display: block;
+              width: 100%;
+              height: 100%;
+              margin:0 auto;
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              justify-content: center;
+              background-color: rgba(15, 15, 15,0.9);
+
+              &:hover{
+                background-color: rgba(15, 15, 15,0.7);
+                transition: background-color 800ms;
+
+                li{
+                  h3{ color:#10c0d5;}
+                }
+              }
+
+              li{
+
+                width: 100%;
+
+                h3{
+
+                    color:#0d8f9d;
+                    font-size: 1.1vw;
+                    font-weight: 600;
+                    padding-bottom:2%;
+                    text-align: center;
+
+                }
+
+                p{
+                    color:#f1f1f1;
+                    font-size: 1vw;
+                    line-height: 1.5;
+                    font-weight: 400;
+                    word-break: keep-all;
+                    padding:0px 30px;
+                    text-align: center;
+
+                }
+              }
+            }
+        }
+    }
+  
+    @media all and (max-width:1200px){
+      .data-content{
+        ul{
+          height:calc(200px - 10px);
+        }
+      }
+    }
+}
